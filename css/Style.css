@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+	font-family: Impact;
+	font-size: 6em;
+}
+h2 {
+	width: 450px;
+	padding-left: 25px;
+    margin: 25px;
+}
+p {
+	width: 450px;
+    padding-left: 25px;
+    margin: 25px;
+}
+body {
+	background-color: #FFDAE0;
+}
+.container img {
+	text-align: right;
+    border-radius: 50%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+	font-size: 2em;
+	font-family: Courier New;
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
